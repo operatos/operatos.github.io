@@ -16,7 +16,7 @@ categories: [GoF,DesignPattern]
 
 2. UML
 
-![img/abstract1.png](img/abstract1.png)
+![abstract1.png](./img/abstract1.png)
 
 3. Code
 
