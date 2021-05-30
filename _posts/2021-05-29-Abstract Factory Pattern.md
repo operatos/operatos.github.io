@@ -2,12 +2,11 @@
 layout: post
 title:  "Abstract Factory Pattern"
 date:   2021-05-29 23:32:04 +0700
-categories: [bash, linux, ubuntu]
+categories: [GoF,DesignPattern]
 ---
 
 # Abstract Factory Pattern
 
-생성일: 2021년 5월 29일 오후 12:48
 
 1. 추상 팩토리 패턴이란?
 
@@ -17,7 +16,7 @@ categories: [bash, linux, ubuntu]
 
 2. UML
 
-![Abstract%20Factory%20Pattern%20c578491863b147528ca74c14f230e95c/Untitled.png](Abstract%20Factory%20Pattern%20c578491863b147528ca74c14f230e95c/Untitled.png)
+![img/abstract1.png](img/abstract1.png)
 
 3. Code
 
